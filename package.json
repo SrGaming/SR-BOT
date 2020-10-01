@@ -1,9 +1,9 @@
 {
-    "name": "simple-bot",
+    "name": "sr-bot",
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
-    "main": "trial-bot.js",
-    "author": "TheNaman047",
+    "main": "sr-bot.js",
+    "author": "SR GAMING",
     "scripts": {
         "start": "node bot.js"
     },
