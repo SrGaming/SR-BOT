@@ -1,1 +1,1 @@
-# SR-BOT
+# trial-learner-bot
